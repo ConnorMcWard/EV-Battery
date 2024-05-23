@@ -15,8 +15,6 @@ Predicting the temperature and battery percentage of an EV in use. This project 
 ## Dataset Description
 The dataset used for this project contains real-life data on an electric vehicle battery, including various features such as temperature, voltage, current, and SOC during different driving cycles. This dataset is sourced from Kaggle and includes detailed recordings of battery parameters over time.
 
-For more details, you can visit the Kaggle dataset: [Battery and Heating Data in Real Driving Cycles](https://www.kaggle.com/datasets/atechnohazard/battery-and-heating-data-in-real-driving-cycles)
-
 ## Data Cleaning and Preprocessing
 Data cleaning and preprocessing steps are crucial to ensure the quality and usability of the dataset. The following steps were taken:
 - Handling missing values
