@@ -22,15 +22,12 @@ Data cleaning and preprocessing steps are crucial to ensure the quality and usab
 - Correcting data types
 - Normalizing data to ensure consistency
 
---- code placeholder ---
-
 ## Feature Engineering
 Feature engineering involves creating new features or transforming existing ones to improve the performance of machine learning models. Key steps include:
 - Creating time-based features to capture temporal patterns
 - Generating statistical summaries of battery parameters over defined intervals
 - Encoding categorical variables if any
 
---- code placeholder ---
 
 ## Modeling
 Different machine learning models were employed to predict the temperature and SOC of EV batteries. The models include:
@@ -40,7 +37,6 @@ Different machine learning models were employed to predict the temperature and S
 - Recurrent Neural Networks (RNNs)
 - Long Short-Term Memory Networks (LSTMs)
 
---- code placeholder ---
 
 ## Evaluation
 The models were evaluated using appropriate metrics to ensure their accuracy and reliability. Common evaluation metrics used are:
@@ -48,10 +44,8 @@ The models were evaluated using appropriate metrics to ensure their accuracy and
 - Root Mean Squared Error (RMSE)
 - R-squared (R²)
 
---- code placeholder ---
 
 ## Conclusion
 This project successfully demonstrates the use of machine learning models to predict EV battery temperature and SOC. The results highlight the importance of feature engineering and the effectiveness of advanced modeling techniques like RNNs and LSTMs in capturing temporal dependencies in the data.
 
-For more detailed insights and code implementations, you can refer to the Kaggle notebook: [Predicting Car Battery Heating Data](https://www.kaggle.com/code/gitanjali1425/predicting-car-battery-heating-data)
 
